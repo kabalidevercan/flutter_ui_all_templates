@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/* dress_commerce_ui_template */
 void main() {
   runApp(const MyApp());
 }

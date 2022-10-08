@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_tinder_clone/tinder_card.dart';
 import 'package:flutter_tinder_clone/user.dart';
 
+/* tinder_clone */
+
 void main() {
   runApp(const MyApp());
 }

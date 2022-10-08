@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_school_app_ui_template/views/main_page.dart';
 
+/* school_app_ui_template */
 void main() {
   runApp(const SchoolApp());
 }

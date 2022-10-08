@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_perfect_plant_app_ui_template/views/home_screen.dart';
 
+/* perfect_plant_app_ui_template */
 void main() {
   runApp(const PerfectPlantApp());
 }

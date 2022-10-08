@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/* discount-tour-uı-template */
 void main() {
   runApp(const DiscountTour());
 }

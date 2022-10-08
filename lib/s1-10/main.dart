@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/* reminder_app_main_ui_template */
 void main() {
   runApp(const MyApp());
 }
@@ -53,9 +54,7 @@ class ReminderMainPage extends StatelessWidget {
                       Icons.arrow_back,
                       color: Colors.black,
                     ),
-
                   ),
-                  
                 ],
               ),
             ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/* food_delivery_ui_template */
 void main() {
   runApp(const FoodDeliveryApp());
 }

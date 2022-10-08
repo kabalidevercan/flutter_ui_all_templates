@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_money_management_main_ui_template/core/screens/home_screen.dart';
 
+/* money_management_main_ui_template */
 void main() {
   runApp(const MoneyManagement());
 }

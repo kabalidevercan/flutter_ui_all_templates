@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/* healthy_recipes_ui_template */
 void main() {
   runApp(const MyApp());
 }

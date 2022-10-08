@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_notes_app_ui/app_colors.dart';
 import 'package:flutter_notes_app_ui/views/landing_view.dart';
 import 'package:google_fonts/google_fonts.dart';
-
+/* notes_app_ui */
 void main() {
   runApp(const MyApp());
 }
